@@ -31,7 +31,7 @@ Here is how my original code looked before refactoring:
 
 <img width="401" alt="No Refactor Code Bottom" src="https://user-images.githubusercontent.com/114960958/197085293-47988cc7-d6e5-40c4-8cc6-e540d7987603.png">
 
-Here is how the code looked after refactoring:
+Here is how a section of the code looked after refactoring:
 
 <img width="493" alt="ReformattedCode" src="https://user-images.githubusercontent.com/114960958/197085259-16ec4ade-d567-4ce6-87b1-de33ccb94540.png">
 

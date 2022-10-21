@@ -15,9 +15,29 @@ Here is a sample of the original code I used:
 
 As I worked to refactor the previous code, I used a series of arrays and loops instead of nested loops as previously done. The goal was to make the code more efficient and to therefore run faster. As you can see in the below screenshots, the screenshot showing the results of the code without or "with no" refactor ran slower than the code with refactor. The original code before refactoring, ran in 1.22 seconds, whereas the code ran in 0.85 seconds after the code was refactored. 
  
-![2018 Stocks Without Refactor](AllStocks2018NOREFACTOR.png)
+<img width="485" alt="AllStocks2018NOREFACTOR" src="https://user-images.githubusercontent.com/114960958/197085126-3e34e8bc-fc11-400c-81a9-4641465ae561.png">
 
-![2018 Stocks WITH Refactor](resources/AllStocks2018WITHREFACTOR.png)
+<img width="476" alt="AllStocks2018WITHREFACTOR" src="https://user-images.githubusercontent.com/114960958/197085173-fc462504-ea56-4c8a-8212-b45f1b580565.png">
+
+Here are some screenshots to show the ways that both the 2017 and the 2018 stocks looked when the refactored code ran:
+
+<img width="190" alt="AllStocks2017" src="https://user-images.githubusercontent.com/114960958/197085208-1b4cab2a-5b0f-47fe-ac9d-ba9a246fb81a.png">
+
+<img width="191" alt="AllStocks2018" src="https://user-images.githubusercontent.com/114960958/197085215-8b45fd3d-372d-4464-96b1-61d96c112795.png">
+
+Here is how my original code looked before refactoring:
+
+<img width="394" alt="No Refactor Code Top" src="https://user-images.githubusercontent.com/114960958/197085285-2d14c474-47a1-490d-8575-85975220985c.png">
+
+<img width="401" alt="No Refactor Code Bottom" src="https://user-images.githubusercontent.com/114960958/197085293-47988cc7-d6e5-40c4-8cc6-e540d7987603.png">
+
+Here is how the code looked after refactoring:
+
+<img width="493" alt="ReformattedCode" src="https://user-images.githubusercontent.com/114960958/197085259-16ec4ade-d567-4ce6-87b1-de33ccb94540.png">
+
+Some formatting was also done with the refactoring process. This allows the user to have an easier time viewing, understanding, and analyzing the data. In the above screenshots, you can see some of the results of this code, where headers, bold font, and colors to define stocks that closed in positive or negative standing (see red and green coloring). See screenshot of the code below:
+
+<img width="394" alt="FormattingCode" src="https://user-images.githubusercontent.com/114960958/197085271-eae72d45-838d-4a95-b5f3-2e794d894182.png">
 
 
 ## Summary

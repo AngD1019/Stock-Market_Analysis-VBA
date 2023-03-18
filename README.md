@@ -9,6 +9,7 @@ Additionally, the code will be refactored to identify any differences or changes
 
 ### Results
 
+Using stock market data from 2017 and 2018, we refactored the VBA code in these documents by creating a tickerIndex variable with three output arrays of tickerVolumes, tickerStartingPrices and tickerEndingPrices. Then, we created a series of for loops to initialize the tickerVolumes to zero, to loop over all rows, and later to loop through all arrays. We also created if-then statements to assign current starting price and current closing price to tickerStartingPrices and tickerEndingPrices respectively. Then, wrote a script to increase the tickerIndex if the next row's ticker doesn't match the previou row's ticker. Then, when we ran the code, the following the pop-up messages appeared showing elapsed run time.
 
 2017 Stocks Code run time:
 
